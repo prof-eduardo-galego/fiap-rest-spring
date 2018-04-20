@@ -1,4 +1,4 @@
-package fiap.scj.restfull.springboot;
+package fiap.scj.restfull.springboot.beans;
 
 public class Message {
 
